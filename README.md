@@ -3,6 +3,7 @@ Project Overview
 
 This project analyzes sales, products, customer demographics, and city-specific data to determine the best three cities for opening a coffee house. The selection is based on total revenue, customer base, and rental costs.
 Findings: Top 3 Cities for a Coffee House
+
 1️⃣ Pune
 
     Highest total revenue among all cities.
